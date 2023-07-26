@@ -4,6 +4,5 @@ price.js
 refs-todo.todo
 scrapper.log
 raw-index.js
-config.js
 *.db
 *.sqlite
